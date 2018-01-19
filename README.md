@@ -5,7 +5,7 @@ Scripts for scraping, wrangling, geocoding, analyzing, and mapping Twitter data
 The script covers
 
 * scraping Twitter data from user timeline
-* text cleaning (e.g., removing URLs, RTs, handles and emojis from text) of tweets using *tm* 
+* text cleaning of tweets using *tm* (e.g., removing URLs, RTs, handles and emojis from text) 
 * mining them by  
     * extracting and plotting word frequencies
     * visualizing wordclouds
@@ -15,7 +15,6 @@ The script covers
     * conducting sentiment analyses
     
 using the example of Donald Trump's tweets. 
-
 
 ## Description: twitter_user_location
 The script covers
