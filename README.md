@@ -8,7 +8,7 @@ The script covers
 * text cleaning of tweets using *tm* (e.g., removing URLs, RTs, handles and emojis from text) 
 * mining them by  
     * extracting and plotting word frequencies
-    * visualizing wordclouds
+    * visualizing word clouds
     * finding word associations
     * visualizing popularity statistics (number of favourites and retweets)
     * extracting and visualizing publication dates 
