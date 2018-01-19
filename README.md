@@ -24,6 +24,6 @@ The script covers
 * scraping corresponding user infos of tweet authors
 * geocoding user locations using Google Maps API
 * cleaning geocoded user locations and merging them with corresponding tweets 
-* mapping user locations with leaflet and ggplot2
+* mapping user locations with *leaflet* and *ggplot2*
     
 using the example of #MeToo. 
